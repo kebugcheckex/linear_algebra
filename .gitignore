@@ -1,0 +1,9 @@
+# gitignore file for LaTeX
+*.aux
+*.bak
+*.bbl
+*.blg
+*.log
+*.out
+*.gz
+
